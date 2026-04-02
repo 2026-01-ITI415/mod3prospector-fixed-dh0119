@@ -1,0 +1,148 @@
+{
+    "multiplier": {
+        "x": 1.35,
+        "y": 1.6
+    },
+    "slots": [
+        {
+            "id": 0,
+            "x": -4,
+            "y": 0,
+            "faceUp": false,
+            "layer": "Row0",
+            "hiddenByString": ""
+        },
+        {
+            "id": 1,
+            "x": 0,
+            "y": 0,
+            "faceUp": false,
+            "layer": "Row0",
+            "hiddenByString": ""
+        },
+        {
+            "id": 2,
+            "x": 4,
+            "y": 0,
+            "faceUp": false,
+            "layer": "Row0",
+            "hiddenByString": ""
+        },
+        {
+            "id": 3,
+            "x": -5,
+            "y": -1,
+            "faceUp": false,
+            "layer": "Row1",
+            "hiddenByString": "0"
+        },
+        {
+            "id": 4,
+            "x": -3,
+            "y": -1,
+            "faceUp": false,
+            "layer": "Row1",
+            "hiddenByString": "0"
+        },
+        {
+            "id": 5,
+            "x": -1,
+            "y": -1,
+            "faceUp": false,
+            "layer": "Row1",
+            "hiddenByString": "1"
+        },
+        {
+            "id": 6,
+            "x": 1,
+            "y": -1,
+            "faceUp": false,
+            "layer": "Row1",
+            "hiddenByString": "1"
+        },
+        {
+            "id": 7,
+            "x": 3,
+            "y": -1,
+            "faceUp": false,
+            "layer": "Row1",
+            "hiddenByString": "2"
+        },
+        {
+            "id": 8,
+            "x": 5,
+            "y": -1,
+            "faceUp": false,
+            "layer": "Row1",
+            "hiddenByString": "2"
+        },
+        {
+            "id": 9,
+            "x": -6,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "3"
+        },
+        {
+            "id": 10,
+            "x": -4,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "3,4"
+        },
+        {
+            "id": 11,
+            "x": -2,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "4,5"
+        },
+        {
+            "id": 12,
+            "x": 0,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "5,6"
+        },
+        {
+            "id": 13,
+            "x": 2,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "6,7"
+        },
+        {
+            "id": 14,
+            "x": 4,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "7,8"
+        },
+        {
+            "id": 15,
+            "x": 6,
+            "y": -2,
+            "faceUp": true,
+            "layer": "Row2",
+            "hiddenByString": "8"
+        }
+    ],
+    "drawPile": {
+        "x": 6,
+        "y": 3,
+        "layer": "Draw",
+        "xStagger": 0.15
+    },
+    "discardPile": {
+        "x": 0,
+        "y": 3,
+        "layer": "Discard",
+        "xStagger": 0
+    }
+}

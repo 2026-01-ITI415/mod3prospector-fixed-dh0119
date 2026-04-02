@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 086b0e06661b64b038fd9121a8d68cd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jsonDeckFile: {fileID: 4900000, guid: caff80825454742cba113312425f8137, type: 3}
+  jsonDeckFile: {fileID: 4900000, guid: 40dd7995a7261054785a7914448ba721, type: 3}
   deck:
     decorators: []
     cards: []
@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63a54131c494846e18f26b7181dd2d57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jsonLayoutFile: {fileID: 4900000, guid: 0579412819a174464adf828afde18c5f, type: 3}
+  jsonLayoutFile: {fileID: 4900000, guid: f8247695f7e72d7409bae7ef3dd84685, type: 3}
   layout:
     multiplier: {x: 0, y: 0}
     slots: []
